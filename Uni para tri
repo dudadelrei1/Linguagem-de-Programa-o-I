@@ -1,0 +1,34 @@
+#include <stdio.h>
+
+int main()
+{
+    int L = 0, C = 0, P =0, total = 0; 
+    int array[1000]; 
+    printf("Quantas linhas terá seu array?"); 
+    scanf("%d", &L); 
+    printf("Quantas colunas terá seu array?"); 
+    scanf("%d", &C); 
+    printf("Qual a profundidade do seu array?"); 
+    scanf("%d", &P);
+    
+    total = C*L*P;
+    
+    printf("Digite os valores do seu vetor: "); 
+    for(int i=0; i<total; i++){
+        scanf("%d", &array[i]);
+    }
+    
+    printf("\nSua matriz tridimensional: \n");
+    
+    for(int k=0; k<P; k++){
+        printf("Camada %d: \n", k);
+    for(int j=0; j<L; j++){
+    for(int i=0; i<C; i++){
+        printf("\t%d ", array[k*L*C+j*C+i]);
+    }
+        printf("\n"); 
+    }}
+    
+
+    return 0;
+}

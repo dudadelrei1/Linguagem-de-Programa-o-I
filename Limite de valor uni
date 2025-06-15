@@ -1,0 +1,34 @@
+#include <stdio.h>
+
+int main()
+{
+   int uni1[100]; 
+   uni1[99]=10; 
+   
+   if(uni1[99]==10){
+       printf("100 na unidimensional\n");
+       int uni2[1000];
+       uni2[999]=10;
+    if(uni2[999]==10){
+       printf("1000 na unidimensional\n");
+        int uni3[10000];
+        uni3[9999]=10;
+    if(uni3[9999]==10){
+        printf("10000 na unidimensional\n");
+        int uni4[100000]; 
+        uni4[99999]=10;
+    if(uni4[99999]==10){
+        printf("100000 na unidimensional\n");
+        int uni5[1000000]; 
+        uni5[999999]=10; 
+    if(uni5[999999]==10){
+        printf("1000000 na unidimensional\n");
+        int uni6[10000000]; 
+        uni6[9999999]=10;
+    if(uni6[9999999]==10){
+        printf("10000000 na unidimensional\n");
+    
+    }}}}}}
+       
+    return 0;
+}

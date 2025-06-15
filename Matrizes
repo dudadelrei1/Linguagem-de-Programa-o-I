@@ -1,0 +1,88 @@
+#include <stdio.h>
+
+int main()
+{
+   int uni[1]; 
+   uni[0]=10;
+   //Checa se há vetor unidimensional
+   if(uni[0]==10){
+       printf("Unidimensional\n");
+       int bi[1][1]; 
+       bi[0][0]=10;
+    //Checa se há vetor bidimensional
+    if(bi[0][0]==10){
+        printf("Bidimensional\n");
+        int tri[1][1][1]; 
+        tri[0][0][0]=10;
+    //Checa se há vetor tridimensional
+    if(tri[0][0][0]==10){
+        printf("Tridimensional\n");
+        int treta[1][1][1][1]; 
+        treta[0][0][0][0]=10;
+    //Checa se há vetor tretadimensional
+    if(treta[0][0][0][0]==10){
+        printf("Tretadimensional\n");
+        int penta[1][1][1][1][1]; 
+        penta[0][0][0][0][0]=10;  
+    //Checa se há vetor pentadimensional
+    if(penta[0][0][0][0][0]==10){
+        printf("Pentadimensional\n");
+        int hexa[1][1][1][1][1][1]; 
+        hexa[0][0][0][0][0][0]=10;   
+    //Checa se há vetor hexadimensional
+    if(hexa[0][0][0][0][0][0]==10){
+        printf("Hexadimensional\n");
+        int hepta[1][1][1][1][1][1][1]; 
+        hepta[0][0][0][0][0][0][0]=10; 
+    //Checa se há vetor heptadimensional
+    if(hepta[0][0][0][0][0][0][0]==10){
+        printf("Heptadimensional\n");
+        int octa[1][1][1][1][1][1][1][1]; 
+        octa[0][0][0][0][0][0][0][0]=10;
+    //Checa se há vetor octadimensional
+    if(octa[0][0][0][0][0][0][0][0]==10){
+        printf("Octadimensional\n");
+        int enea[1][1][1][1][1][1][1][1][1]; 
+        enea[0][0][0][0][0][0][0][0][0]=10;
+    //Checa se há vetor eneadimensional
+    if(enea[0][0][0][0][0][0][0][0][0]==10){
+        printf("Eneadimensional\n");
+        int deca[1][1][1][1][1][1][1][1][1][1]; 
+        deca[0][0][0][0][0][0][0][0][0][0]=10;
+    //Checa se há vetor decadimensional
+    if(deca[0][0][0][0][0][0][0][0][0][0]==10){
+        printf("Decadimensional\n");
+        int unedeca[1][1][1][1][1][1][1][1][1][1][1]; 
+        unedeca[0][0][0][0][0][0][0][0][0][0][0]==10; 
+    if(unedeca[0][0][0][0][0][0][0][0][0][0][0]==10){
+        printf("11 dimensões/n");
+        int pentadeca[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1];
+        pentadeca[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]==10;
+    //Checa se há vetor pentadecadimensional(15dimensões)
+    if(pentadeca[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]==10){
+        printf("20 dimensões\n");
+        int visegimo[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1];
+        visegimo[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]==10;
+    //Checa se há vetor tridestadimensional(20dimensões)
+    if(visegimo[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]==10){
+        printf("20 dimensões\n");
+        int tridesta[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1];
+        tridesta[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0];
+    //Checa se há vetor tridestadimensional(32dimensões)
+    if(tridesta[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]==10){
+        printf("32 dimensões\n");
+        int trintatri[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1];
+        trintatri[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0] = 10;
+    //Checa se há vetor trintatridimensional(33dimensões)
+    if(trintatri[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0]==10){
+        printf("33 dimensões\n");
+        int trintatri[1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1][1];
+        trintatri[0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0][0] = 10;
+          
+        
+    }}}}}}}}}}}}}}}
+  
+  //Durante a compilação ao chegar na 11ª dimensão ocorreu overflow
+   
+    return 0;
+}
