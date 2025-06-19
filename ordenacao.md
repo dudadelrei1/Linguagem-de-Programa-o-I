@@ -1,0 +1,1 @@
+Este programa em C gera um array de tamanho N com números aleatórios entre 0 e 999, depois imprime os valores em ordem crescente usando uma abordagem de seleção repetida, substituindo o menor valor encontrado por 1001 para não repeti-lo. Ao final, exibe o tempo gasto para executar essa ordenação.

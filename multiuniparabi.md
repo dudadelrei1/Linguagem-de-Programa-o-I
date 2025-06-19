@@ -1,0 +1,1 @@
+Este programa em C realiza a multiplicação de duas matrizes inteiras fornecidas pelo usuário. Primeiro, verifica se a multiplicação é possível (o número de colunas da primeira matriz deve ser igual ao número de linhas da segunda). Se válido, lê os valores das duas matrizes e calcula o produto, exibindo a matriz resultante.

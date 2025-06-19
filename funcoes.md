@@ -1,0 +1,1 @@
+Este programa em C recebe um argumento da linha de comando, converte para inteiro e executa uma função que imprime números de 0 até n-1, onde n é o valor passado. Também imprime o número de argumentos recebidos e um valor fixo retornado pela função `localFor`. Possui como objetivo a aprendizagem do uso de funções. 

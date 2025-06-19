@@ -1,0 +1,1 @@
+Programa em C que calcula o Índice de Massa Corporal (IMC) a partir do peso e altura informados pelo usuário e classifica o resultado em categorias como magreza, normal, sobrepeso, obesidade e obesidade grave.

@@ -1,0 +1,1 @@
+Este programa em C exibe o tamanho em bytes de vários tipos de dados básicos (como int, float, double, char, etc.) e tenta definir variáveis com valores máximos e mínimos para esses tipos. Também realiza incrementos e decrementos para testar o comportamento dos limites desses tipos e imprime os resultados para análise.

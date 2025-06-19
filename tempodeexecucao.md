@@ -1,0 +1,1 @@
+Este código em C mede o tempo gasto para executar um laço que imprime números de 0 até 999.999 (um milhão). A função `repeticao` usa a função `clock()` para marcar o início e o fim da execução do loop, onde cada número é impresso no console.

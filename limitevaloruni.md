@@ -1,0 +1,1 @@
+Este programa em C cria arrays unidimensionais de tamanhos crescentes (de 100 até 10 milhões) e verifica se é possível acessar e atribuir um valor no último índice de cada array, imprimindo uma mensagem para cada tamanho válido. O objetivo é testar limites de alocação e acesso em arrays grandes.

@@ -1,0 +1,1 @@
+Programa em C que funciona como uma calculadora simples, capaz de ler e calcular expressões com operadores +, -, \* e /. Recebe números e operadores em sequência, respeita a prioridade de multiplicação e divisão, e exibe o resultado final.

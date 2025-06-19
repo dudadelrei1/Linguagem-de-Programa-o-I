@@ -1,0 +1,1 @@
+Este programa em C realiza a multiplicação de duas matrizes tridimensionais. O usuário informa a profundidade, linhas e colunas de cada matriz. O programa verifica se a multiplicação é possível (nº de colunas da 1ª matriz igual ao nº de linhas da 2ª), lê os valores das matrizes por camadas e exibe a matriz tridimensional resultante da multiplicação.

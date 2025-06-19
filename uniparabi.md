@@ -1,0 +1,1 @@
+Este programa em C simula uma matriz bidimensional utilizando um vetor linear. O usuário informa a quantidade de linhas e colunas, insere os valores um a um, e o programa imprime os dados formatados como uma matriz 2D.
