@@ -2,7 +2,7 @@
 #include <stdlib.h> 
 #include <time.h> 
 #include <math.h> 
-
+ 
     double x, y, pi; 
 	int numero_pontos = 100000; 
 	int certos = 0; 

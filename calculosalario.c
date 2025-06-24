@@ -5,7 +5,7 @@ int main()
     //Reservas mensais para pagamento de direitos e multas EMPRESA
     float salariogeral = 0, geral13 = 0, ferias = 0, FGTS = 0, INSSgeral = 0, valerefeicaogeral = 0, saudegeral, gastomensal = 0; 
     float horasextrasgeral = 0, adicionalnoturnogeral = 0, insalubridadegeral = 0, demissao = 0, despesatotal = 0, gastos = 0 ; 
-    
+      
     //Impostos e taxas EMPRESA
     float COFINS = 0, CSLL = 0, IRPJ = 0, PIS = 0, ISS = 0, DAS = 0; 
     

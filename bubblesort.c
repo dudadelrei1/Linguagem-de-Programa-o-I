@@ -10,7 +10,7 @@ void comparacaostring(char nomes[100][1000], int n) {
             if (strcmp(nomes[j], nomes[j + 1]) > 0) {
                 strcpy(troca, nomes[j]);
                 strcpy(nomes[j], nomes[j + 1]);
-                strcpy(nomes[j + 1], troca);
+                strcpy(nomes[j + 1], troca); 
             }
         }
     }

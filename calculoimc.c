@@ -9,7 +9,7 @@ int main()
     
     printf("Entre com sua altura em metros: ");
     scanf("%f", &altura);
-    
+     
     imc = peso/(altura*altura);
     
     printf("Seu peso = %3.2f e sua altura = %3.2f\n", peso, altura);

@@ -4,7 +4,7 @@
 #include <string.h>
 
 int main()
-{
+{ 
     //Declaração de variáveis
     char c; 
     char b[4] = "123";

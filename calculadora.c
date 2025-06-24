@@ -7,7 +7,7 @@ double numero[10000];
 double total = 0; 
 
 int main(){
-	
+	 
     printf("\tCalculadora!\n"); 
     
     printf("Digite a expressão que deseja realizar(para encerrar a operação digite 'e' - *sem as aspas): ");
